@@ -23,7 +23,7 @@ public class HelloApplication extends SpringBootServletInitializer {
     @RequestMapping("hello")
     @ResponseBody
     public String hello() {
-        return "hello world！ 传智播客！大大大 打打";
+        return "hello world！ 传智播客！大大大 打打qq11";
     }
 
     @Bean
